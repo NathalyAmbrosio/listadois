@@ -26,6 +26,6 @@ public class NathalyAmbrosio_exercicio4 {
         var1 = var2;
         var2 = var3;
 
-        System.out.println ("A inversão dos números fica" + var1 + " " + var2);
+        System.out.println ("A inversão dos números fica " + var1 + " " + var2);
         leitor.close();
 }}
