@@ -1,10 +1,10 @@
-/*
+/* 
 Algoritmo que compara os números e mostra qual é ooo maior ou se são iguais
 Nathaly Ambrósio
 23/05/2023
 */
 import java.util.Scanner;
-public class NathalyAmbrosio_exercicio9{
+public class NathalyAmbrosio_exercicio09{
         public static void main (String args []){ 
          Scanner leitor = new Scanner (System.in);
 
@@ -23,10 +23,10 @@ public class NathalyAmbrosio_exercicio9{
         if (n1 == n2)
         System.out.println("os valores são iguais");
 
-        else if ( n1 > n2)
+        else if ( n1 > n2){
                 System.out.println("o primeiro valor é maior");
                 
-                else if (n1 < n2)
+        }else
                         System.out.println("o segundo número é maior");
 
                         leitor.close();
