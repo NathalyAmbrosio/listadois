@@ -20,9 +20,9 @@ public class NathalyAmbrosio_exercicio10{
          n1 = leitor.nextInt();
 
          //compara os valores
-         if ((n1 % 2) == 0)
+         if ((n1 % 2) == 0){
                   System.out.println("é um número par");
-                  else if ((n1 % 3) == 1)
+         } else 
                    System.out.println("é um número ímpar");
         
             leitor.close();
