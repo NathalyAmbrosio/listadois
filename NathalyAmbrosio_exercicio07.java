@@ -17,9 +17,9 @@ public class NathalyAmbrosio_exercicio07 {
       num = leitor.nextInt();
 
       if (num >= 94 && num <= 456) {
-        System.out.println("ACERTOU ");
+        System.out.println("ACERTOU");
         } else {
-             System.out.println("TENTE NOVAMENTE o numero esta fora do intervalo");
+             System.out.println("TENTE NOVAMENTE");
              
              leitor.close();
         }
