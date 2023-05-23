@@ -14,12 +14,11 @@ import java.util.Scanner;
     ant = 0;
     suc = 0;
      num = 0;
-     
+      //recebe os valores
+    System.out.println("digite um número");
+
     //leia as variaveis
     num = leitor.nextInt();
-     
-    //recebe os valores
-    System.out.println("digite um número");
 
    //conta do sucesssor e antecessor
    ant = num - 1;
@@ -29,5 +28,6 @@ import java.util.Scanner;
      leitor.close();
     }
     }
+
 
 
