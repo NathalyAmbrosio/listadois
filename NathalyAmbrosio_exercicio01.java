@@ -24,7 +24,7 @@ public class NathalyAmbrosio_exercicio01 {
          des = (val/100)* 15;
 
          System.out.println ("o valor orginal é " + val);
-         System.out.println ("o valor de desconto é" + des);
+         System.out.println ("o valor de desconto é " + des);
 
         leitor.close();
     }
