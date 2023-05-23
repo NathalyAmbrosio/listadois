@@ -1,5 +1,5 @@
 /* 
-Algoritmo que compara os números e mostra qual é ooo maior ou se são iguais
+Algoritmo que compara os números e mostra qual é o maior ou se são iguais
 Nathaly Ambrósio
 23/05/2023
 */
