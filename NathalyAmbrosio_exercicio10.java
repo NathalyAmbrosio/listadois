@@ -22,8 +22,8 @@ public class NathalyAmbrosio_exercicio10{
          //compara os valores
          if ((n1 % 2) == 0){
                   System.out.println("é um número par");
-         } else 
-                   System.out.println("é um número ímpar");
+         } else {
+                   System.out.println("é um número ímpar");}
         
             leitor.close();
                   
