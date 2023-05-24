@@ -13,7 +13,7 @@ import java.util.Scanner;
      //iniciando as variáveis
     ant = 0;
     suc = 0;
-     num = 0;
+    num = 0;
       //recebe os valores
     System.out.println("digite um número");
 
