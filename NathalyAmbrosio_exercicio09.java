@@ -26,8 +26,8 @@ public class NathalyAmbrosio_exercicio09{
         else if ( n1 > n2){
                 System.out.println("o primeiro valor é maior");
                 
-        }else
-                        System.out.println("o segundo número é maior");
+        }else {
+                        System.out.println("o segundo número é maior");}
 
                         leitor.close();
         }
